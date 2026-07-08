@@ -1,0 +1,28 @@
+# Flutter / Dart generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# IDE and OS noise
+.idea/
+**/*.iml
+.DS_Store
+Thumbs.db
+
+# Native generated intermediates
+**/android/.gradle/
+**/ios/Pods/
+**/macos/Pods/
+
+# Local secrets and machine-specific config
+**/.env
+**/.env.*
+**/local.properties
+
+# Large local archives and generated Kotlin sessions
+*.zip
+**/.kotlin/
+**/*.salive
