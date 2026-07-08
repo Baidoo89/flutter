@@ -26,3 +26,7 @@ Thumbs.db
 *.zip
 **/.kotlin/
 **/*.salive
+
+# Oversized interrupted local backup folder
+d_drive_backup/
+d_selected_backup/
